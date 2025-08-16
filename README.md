@@ -66,7 +66,7 @@ const myKey = ec.keyFromPrivate("your-private-key-here");
    ```
 now u can play around by changing test code as there is no ui or frontend for this
 
-**________________________________________________________**
+---
 
 
 
@@ -86,7 +86,7 @@ Validity of the chain is ensured by verifying:
 2.Each block correctly references the previous hash.
 3.All transactions are validly signed.
 
-**________________________________________________________**
+---
 
 # 👨‍💻 Contributing
 
