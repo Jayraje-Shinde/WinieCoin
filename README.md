@@ -70,7 +70,7 @@ now u can play around by changing test code as there is no ui or frontend for th
 
 
 
-#⚙️ How It Works (Under the Hood)
+# ⚙️ How It Works (Under the Hood)
 
 **Transaction Signing**
 Each transaction is hashed and signed with the sender’s private key.
@@ -87,7 +87,8 @@ Validity of the chain is ensured by verifying:
 3.All transactions are validly signed.
 
 **________________________________________________________**
-#👨‍💻 Contributing
+
+# 👨‍💻 Contributing
 
 Contributions are welcome!
 If you’d like to:
